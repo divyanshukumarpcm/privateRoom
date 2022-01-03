@@ -4,7 +4,7 @@ Make your work private by building a system using arduino which instantly kills 
 
 STEPS:
 
-1. Burn "killbill/killbill.ino" to arduino board
+1. Upload "killbill/killbill.ino" to arduino board
 
 2. Install pyserial, os, signal library in python using: "pip install pyserial" etc..
 
