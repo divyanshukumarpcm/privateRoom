@@ -1,6 +1,8 @@
 # privateRoom
 Make your work private by building a system using arduino which instantly kills a program when someone enters your room/cabin
 
+FOR LINUX USERS: INSTEAD OF PYTHON, NOW YOU CAN USE .SH BASH FILE I PROVIDED. chmod +x the file first and then run it . No need to run the python one.
+
 
 STEPS:
 
