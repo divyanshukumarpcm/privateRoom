@@ -1,7 +1,7 @@
 echo "Enter the pid of the program to be killed: ";
 read pidd;
 
-#echo "Enter the port where arduino is connected(example: /dev/ttyUSB0) : ";
+echo "Enter the port where arduino is connected(example: /dev/ttyUSB0) : ";
 read port
 
 while [ 1 ];
