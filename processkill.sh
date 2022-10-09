@@ -4,6 +4,8 @@ read pidd;
 echo "Enter the port where arduino is connected(example: /dev/ttyUSB0) : ";
 read port
 
+
+echo "All good. Running..."
 while [ 1 ];
 do
 read i <$port;
@@ -14,3 +16,7 @@ break;
 fi
 sleep 0.001
 done
+
+
+echo "Process killed!"
+sleep 300
